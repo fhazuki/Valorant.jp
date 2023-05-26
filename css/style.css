@@ -6,24 +6,24 @@ html {
 
 } */
 
-nav {
+.menuBar {
   width: 100%;
   padding: 20px 0;
   text-align: center;
 }
 
-nav ul {
+.menuBar ul {
   background-color: #000;
 }
 
-nav ul li {
+.menuBar ul li {
   display: inline-block;
   list-style: none;
   margin: 20px 30px;
   cursor: pointer;
 }
 
-nav  ul li a {
+.menuBar  ul li a {
   text-decoration: none;
   color: white;
 }
